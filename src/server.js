@@ -10,10 +10,10 @@ const server = http.createServer(app);
 const io = socketIo(server);
 
 const client = new Client({
-    user: "name_0sve_user",
-    host: "dpg-cv4r9fgfnakc73bs6j70-a",
-    database: "name_0sve",
-    password: "QJ8CigzWJNLJacIpgQGxfVdmMlS5eeo3",
+    user: "cr_lgez_user",
+    host: "dpg-cv7ffvgfnakc738kmk1g-a",
+    database: "cr_lgez",
+    password: "i7aeH6vSWkonY54arfrtUn2jOOxKf323",
     port: "5432"
 });
 
